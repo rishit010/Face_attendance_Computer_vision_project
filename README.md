@@ -127,11 +127,9 @@ python main.py
 
 ---
 
-##  Author
 
-**Rishit Thamman**
-BTech CSE 
+## Author
 
-**Lavanya Sharma**
-BTech CSE
+- **Rishit Thamman** — BTech CSE  
+- **Lavanya Sharma** — BTech CSE  
 ---
