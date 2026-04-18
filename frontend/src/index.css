@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #0D1B2A;
+  --cream: #F5F0E8;
+  --bauhaus-red: #C1392B;
+  --bauhaus-gold: #D4A843;
+  --slate: #4A5568;
+}
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: var(--cream);
+  color: var(--navy);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--cream);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--slate);
+  border-radius: 4px;
+}
+
+/* Perspective container for 3D cards */
+.perspective-1000 {
+  perspective: 1000px;
+}

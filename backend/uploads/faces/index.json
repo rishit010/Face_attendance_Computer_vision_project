@@ -1,0 +1,14 @@
+{
+  "student-8bb8bb6b": {
+    "embedding_path": "uploads/faces/embeddings/student-8bb8bb6b.npy",
+    "image_path": "uploads/faces/images/student-8bb8bb6b.jpg"
+  },
+  "student-a189aff3": {
+    "embedding_path": "uploads/faces/embeddings/student-a189aff3.npy",
+    "image_path": "uploads/faces/images/student-a189aff3.jpg"
+  },
+  "student-7b7f0d91": {
+    "embedding_path": "uploads/faces/embeddings/student-7b7f0d91.npy",
+    "image_path": "uploads/faces/images/student-7b7f0d91.jpg"
+  }
+}
